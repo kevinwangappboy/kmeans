@@ -7,5 +7,4 @@ module Kmeans
   require File.dirname(__FILE__) +  "/kmeans/pearson"
   require File.dirname(__FILE__) +  "/kmeans/cluster"
   require File.dirname(__FILE__) +  "/kmeans/hcluster"
-  require File.dirname(__FILE__) +  "/kmeans/dendrogram"
 end
